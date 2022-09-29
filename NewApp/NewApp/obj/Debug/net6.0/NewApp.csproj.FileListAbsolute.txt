@@ -1,0 +1,15 @@
+C:\Users\omololu\Source\Repos\NewApp\NewApp\bin\Debug\net6.0\NewApp.exe
+C:\Users\omololu\Source\Repos\NewApp\NewApp\bin\Debug\net6.0\NewApp.deps.json
+C:\Users\omololu\Source\Repos\NewApp\NewApp\bin\Debug\net6.0\NewApp.runtimeconfig.json
+C:\Users\omololu\Source\Repos\NewApp\NewApp\bin\Debug\net6.0\NewApp.dll
+C:\Users\omololu\Source\Repos\NewApp\NewApp\bin\Debug\net6.0\NewApp.pdb
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.csproj.AssemblyReference.cache
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.AssemblyInfoInputs.cache
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.AssemblyInfo.cs
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.dll
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\refint\NewApp.dll
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.pdb
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\NewApp.genruntimeconfig.cache
+C:\Users\omololu\Source\Repos\NewApp\NewApp\obj\Debug\net6.0\ref\NewApp.dll
